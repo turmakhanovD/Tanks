@@ -1,0 +1,14 @@
+C:\Users\Адиль\source\repos\WOT\WOT\bin\Debug\netcoreapp2.0\WOT.deps.json
+C:\Users\Адиль\source\repos\WOT\WOT\bin\Debug\netcoreapp2.0\WOT.runtimeconfig.json
+C:\Users\Адиль\source\repos\WOT\WOT\bin\Debug\netcoreapp2.0\WOT.runtimeconfig.dev.json
+C:\Users\Адиль\source\repos\WOT\WOT\bin\Debug\netcoreapp2.0\WOT.dll
+C:\Users\Адиль\source\repos\WOT\WOT\bin\Debug\netcoreapp2.0\WOT.pdb
+C:\Users\Адиль\source\repos\WOT\WOT\bin\Debug\netcoreapp2.0\MyClassLibrary.dll
+C:\Users\Адиль\source\repos\WOT\WOT\bin\Debug\netcoreapp2.0\MyClassLibrary.pdb
+C:\Users\Адиль\source\repos\WOT\WOT\obj\Debug\netcoreapp2.0\WOT.csprojAssemblyReference.cache
+C:\Users\Адиль\source\repos\WOT\WOT\obj\Debug\netcoreapp2.0\WOT.csproj.CoreCompileInputs.cache
+C:\Users\Адиль\source\repos\WOT\WOT\obj\Debug\netcoreapp2.0\WOT.AssemblyInfoInputs.cache
+C:\Users\Адиль\source\repos\WOT\WOT\obj\Debug\netcoreapp2.0\WOT.AssemblyInfo.cs
+C:\Users\Адиль\source\repos\WOT\WOT\obj\Debug\netcoreapp2.0\WOT.csproj.CopyComplete
+C:\Users\Адиль\source\repos\WOT\WOT\obj\Debug\netcoreapp2.0\WOT.dll
+C:\Users\Адиль\source\repos\WOT\WOT\obj\Debug\netcoreapp2.0\WOT.pdb
